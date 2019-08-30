@@ -3,7 +3,8 @@
 [{c:"#f0af4f",w:1.5,w2:1.75,l:true},"Caps Lock",{x:0.25,w:1.25,w2:1.75,l:true},"Caps Lock",{x:1.25,w:1.75},"Caps Lock",{c:"#cccccc"},"A","S","D","F","G","H","J","K","L",":\n;","\"\n'",{c:"#e09bd5",w:2.25},"Enter",{x:3.75},"ISO"],
 [{x:4.25,c:"#dbde54",w:2.25},"Shift","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{w:2.75},"Shift"],
 [{x:4.25,c:"#7dd190",w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:5,w:6.25},"\nCommon",{a:4,w:1.25},"Alt",{w:1.25},"Win",{w:1.25},"Menu",{w:1.25},"Ctrl"],
-[{y:1,x:4.25,w:1.75},"Ctrl",{x:0.5,w:1.75},"Alt",{a:5,w:7},"\nZenith ZKB-2R",{a:4,w:1.75},"Alt",{x:0.5,w:1.75},"Ctrl"],
+[{y:1,x:5,w:1.5},"Ctrl",{w:1.5},"Alt",{a:5,w:6.25},"\nGood 60% arrow impelmentation",{a:4,w:1.25},"Alt","Left","Down","Right"],
+[{x:4.25,w:1.75},"Ctrl",{x:0.5,w:1.75},"Alt",{a:5,w:7},"\nZenith ZKB-2R",{a:4,w:1.75},"Alt",{x:0.5,w:1.75},"Ctrl"],
 [{x:4.25,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:5,w:7},"MX-switch for 7u space is supported on Steezy60-SMK\nTSANGAN / WKL",{a:4,w:1.5},"Alt","Win",{w:1.5},"Ctrl"],
 [{x:4.25,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:5,w:6},"Center stem\nInfinity hacker / true HHKB",{a:4,w:1.5},"Alt","Win","Menu",{w:1.5},"Ctrl"],
 [{x:4.25},"Fn","Ctrl","Win","Alt",{a:5,w:6},"Center stem\nWell, why not...",{a:4},"Alt","Win","Menu","Ctrl","Fn"],
@@ -16,9 +17,10 @@
 [{x:4.25,w:1.5},"Ctrl",{w:1.25},"Win",{w:1.5},"Alt",{a:5,w:2.25},"no PCB stabs\nAEK / AEKII",{a:7,w:1.5},"",{a:5,w:2.75},"no PCB stabs\nAEK / AEKII",{a:4,w:1.5},"Alt",{w:1.25},"Win",{w:1.5},"Ctrl"],
 [{x:4.25,w:1.5},"Ctrl",{w:1.25},"Win",{w:1.5},"Alt",{a:5,w:2.75},"no PCB stabs\nAEK / AEKII",{a:7,w:1.5},"",{a:5,w:2.25},"no PCB stabs\nAEK / AEKII\n\n\n\n\nbad w. tray mount",{a:4,w:1.5},"Alt",{w:1.25},"Win",{w:1.5},"Ctrl"],
 [{x:4.25,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:5,w:2.75},"no PCB stabs\nmx-hhkb split",{a:7,w:1.5},"",{a:5,w:2.75},"no PCB stabs\nmx-hhkb split\n\n\n\n\nbad w. tray mount",{a:4,w:1.5},"Alt","Win",{w:1.5},"Ctrl"],
-[{y:1,x:4.25,c:"#ff0000"},"Fn",{w:1.25},"Shift\n\n\n\n\n\n\n1.25u","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{w:1.75},"Shift\n\n\n\n\n\n\n1.75u","Fn"],
+[{y:1,x:4.25,c:"#dbde54"},"Fn",{w:1.25},"Shift\n\n\n\n\n\n\n1.25u","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{w:1.75},"Shift\n\n\n\n\n\n\n1.75u","Fn"],
 [{x:4.25,w:1.25},"Shift\n\n\n\n\n\n\n1.25u","ISO","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{w:1.75},"Shift\n\n\n\n\n\n\n1.75u","Fn"],
 [{x:4.25,w:2.25},"Shift\n\n\n\n\n\n\n2.25u","Z","X","C","V","B","N","M","<\n,",">\n.",{w:1.75},"Shift\n\n\n\n\n\n\n1.75u","Up","?\n/"],
+[{x:4.25,w:2.25},"Shift","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/","Up",{w:1.75},"Shift"],
 [{x:4.25,w:2},"Shift\n\n\n\n\n\n\n2u","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/","Shift","Up","Fn"],
 [{x:4.25},"Shift","ISO","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/","Shift","Up","Fn"]
 
