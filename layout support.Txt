@@ -5,7 +5,7 @@
 [{x:4.25,c:"#7dd190",w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:5,w:6.25},"\nCommon",{a:4,w:1.25},"Alt",{w:1.25},"Win",{w:1.25},"Menu",{w:1.25},"Ctrl"],
 [{y:1,x:5,w:1.5},"Ctrl",{w:1.5},"Alt",{a:5,w:6.25},"\nGood 60% arrow impelmentation",{a:4,w:1.25},"Alt","Left","Down","Right"],
 [{x:4.25,w:1.75},"Ctrl",{x:0.5,w:1.75},"Alt",{a:5,w:7},"\nZenith ZKB-2R",{a:4,w:1.75},"Alt",{x:0.5,w:1.75},"Ctrl"],
-[{x:4.25,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:5,w:7},"MX-switch for 7u space is supported on Steezy60-SMK\nTSANGAN / WKL",{a:4,w:1.5},"Alt","Win",{w:1.5},"Ctrl"],
+[{x:4.25,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:5,w:7},"MX-switch for 7u and 6.25u space is supported on Steezy60-SMK\nTSANGAN / WKL",{a:4,w:1.5},"Alt","Win",{w:1.5},"Ctrl"],
 [{x:4.25,w:1.5},"Ctrl","Win",{w:1.5},"Alt",{a:5,w:6},"Center stem\nInfinity hacker / true HHKB",{a:4,w:1.5},"Alt","Win","Menu",{w:1.5},"Ctrl"],
 [{x:4.25},"Fn","Ctrl","Win","Alt",{a:5,w:6},"Center stem\nWell, why not...",{a:4},"Alt","Win","Menu","Ctrl","Fn"],
 [{x:4.25,w:1.5},"Ctrl",{w:1.25},"Win",{w:1.5},"Alt",{a:5,w:6.5},"no PCB stabs\nAEK / AEKII",{a:4,w:1.5},"Alt",{w:1.25},"Win",{w:1.5},"Ctrl"],
