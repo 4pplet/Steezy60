@@ -25,11 +25,11 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 
 ## Revisions:
 
-### ALPS 
+### SMK 
 - Rev A1: Initial prototype, issues: had 2 alps footprints left over from other pcb.
 - Rev B1: Changed processor to atmega32u2, changed layout support, removed some mounting holes (for chinese cases).
 - Rev B2: Rotated left shift stabilizer for better universal plate support
 
-### SMK
+### ALPS
 - Rev A1: Initial prototype based on SMK-version.
 - Rev A2: Rotated left shift stabilizer for better universal plate support
