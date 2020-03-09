@@ -18,7 +18,7 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 ![alt text](./readme-images/Steezy60-Alps_Rev_A4.jpg "PCB View - Rev A")
 
 ## Altium view of SMK PCB
-![alt text](./readme-images/Steezy60-SMK_Rev_B4.jpg "PCB View - Rev B")
+![alt text](./readme-images/Steezy60-SMK_Rev_B4.jpg "PCB View - Rev A")
 
 ## Layout support: 
 ![alt text](./readme-images/revB_layout_support.jpg "Layout support")
@@ -28,8 +28,13 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 ### SMK 
 - Rev A1: Initial prototype, issues: had 2 alps footprints left over from other pcb.
 - Rev B1: Changed processor to atmega32u2, changed layout support, removed some mounting holes (for chinese cases).
-- Rev B2: Rotated left shift stabilizer for better universal plate support
+- Rev A2: Rotated left shift stabilizer for better universal plate support, reset revision designator to A (old A-revision does not exist anymore), to match Steezy60-Alps. Removed PCB name and logo on top, removed flash command from silk.
 
 ### ALPS
 - Rev A1: Initial prototype based on SMK-version.
-- Rev A2: Rotated left shift stabilizer for better universal plate support
+- Rev A2: Rotated left shift stabilizer for better universal plate support, removed PCB name and logo on top, removed flash command from silk.
+
+## Todo:
+- Verify switch positions
+- Make low volume protoype series
+- Implement VIA-support.
