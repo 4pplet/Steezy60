@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=Job1.OutJob
 Description=
-TargetOutputMedium=BOM
+TargetOutputMedium=Gerbers drill and pick
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -42,7 +42,7 @@ OutputName1=Gerber Files
 OutputCategory1=Fabrication
 OutputDocumentPath1=Steezy60ALPS.PcbDoc
 OutputVariantName1=
-OutputEnabled1=0
+OutputEnabled1=1
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=1
@@ -57,7 +57,7 @@ OutputName2=NC Drill Files
 OutputCategory2=Fabrication
 OutputDocumentPath2=Steezy60ALPS.PcbDoc
 OutputVariantName2=
-OutputEnabled2=0
+OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=0
 OutputEnabled2_OutputMedium3=2
@@ -95,7 +95,7 @@ OutputName4=Generates pick and place files
 OutputCategory4=Assembly
 OutputDocumentPath4=Steezy60ALPS.PcbDoc
 OutputVariantName4=
-OutputEnabled4=0
+OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
 OutputEnabled4_OutputMedium2=0
 OutputEnabled4_OutputMedium3=3
@@ -172,7 +172,7 @@ Configuration7_Item4=Value=True|Footprint=True|LCSC Part #=True
 Configuration7_Name5=SortOrder
 Configuration7_Item5=Quantity=Down
 Configuration7_Name6=VisibleOrder
-Configuration7_Item6=Description=100|Quantity=100|Designator=100|MFG=100|MFGPN=100|Value=100|Version=100|LCSC MFG=100|MRF.Part=100|LCSC Part #=100
+Configuration7_Item6=Designator=100|Quantity=100|LCSC Part #=100|Footprint=100
 OutputType8=Schematic Print
 OutputName8=Schematic Prints
 OutputCategory8=Documentation
