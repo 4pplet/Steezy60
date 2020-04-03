@@ -15,13 +15,13 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 - Support for some of the weird Alps switch positions for compatibility with SMK Alps mount switches and classic Alps keysets (not for cherry stem SMK switches).
 
 ## Altium view of ALPS PCB
-![alt text](./readme-images/Steezy60-Alps_Rev_A4.jpg "PCB View - Rev A")
+![alt text](./readme-images/Steezy60-Alps_Rev_A2.jpg "PCB View - Rev A")
 
 ## Altium view of SMK PCB
-![alt text](./readme-images/Steezy60-SMK_Rev_B4.jpg "PCB View - Rev A")
+![alt text](./readme-images/Steezy60-SMK_Rev_A2.jpg "PCB View - Rev A")
 
 ## Layout support: 
-![alt text](./readme-images/revB_layout_support.jpg "Layout support")
+![alt text](./readme-images/layout_support.jpg "Layout support")
 
 ## Revisions:
 

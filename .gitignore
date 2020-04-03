@@ -12,3 +12,4 @@ Project Outputs for alps-cherry/
 *.zip
 
 *.LOG
+.DS_Store
