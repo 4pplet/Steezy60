@@ -29,12 +29,12 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 - Rev A1: Initial prototype, issues: had 2 alps footprints left over from other pcb.
 - Rev B1: Changed processor to atmega32u2, changed layout support, removed some mounting holes (for chinese cases).
 - Rev A2: Rotated left shift stabilizer for better universal plate support, reset revision designator to A (old A-revision does not exist anymore), to match Steezy60-Alps. Removed PCB name and logo on top, removed flash command from silk.
-- Rev A3: Added support for Canon Spherical Keycaps
+- Rev A3: Added support for Canon Spherical Keycaps, improved routing, added support for rubber-band mouting
 
 ### ALPS
 - Rev A1: Initial prototype based on SMK-version.
 - Rev A2: Rotated left shift stabilizer for better universal plate support, removed PCB name and logo on top, removed flash command from silk.
-- Rev A3: Added support for Canon Spherical Keycaps
+- Rev A3: Added support for Canon Spherical Keycaps, improved routing, added support for rubber-band mouting
 
 ## Todo:
 - Verify switch positions
