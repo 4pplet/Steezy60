@@ -15,12 +15,12 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 - Support for some of the weird Alps switch positions for compatibility with SMK Alps mount switches and classic Alps keysets (not for cherry stem SMK switches).
 
 ## Altium view of ALPS PCB
-![alt text](./readme-images/Steezy60-Alps_Rev_A3.jpg "PCB View - Rev A")
+![alt text](./readme-images/Steezy60-Alps_Rev_A4.jpg "PCB View - Rev A")
 
 ## Altium view of SMK PCB
-![alt text](./readme-images/Steezy60-SMK_Rev_A3.jpg "PCB View - Rev A")
+![alt text](./readme-images/Steezy60-SMK_Rev_A4.jpg "PCB View - Rev A")
 
-## Layout support: 
+## Layout support:
 ![alt text](./readme-images/layout_support_A3.jpg "Layout support")
 
 ## Revisions:
@@ -29,14 +29,11 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 - Rev A1: Initial prototype, issues: had 2 alps footprints left over from other pcb.
 - Rev B1: Changed processor to atmega32u2, changed layout support, removed some mounting holes (for chinese cases).
 - Rev A2: Rotated left shift stabilizer for better universal plate support, reset revision designator to A (old A-revision does not exist anymore), to match Steezy60-Alps. Removed PCB name and logo on top, removed flash command from silk.
-- Rev A3: Added support for Canon Spherical Keycaps, improved routing, added support for rubber-band mouting
+- Rev A3: Added support for Canon Spherical Keycaps, improved routing, added support for rubber-band mouting.
+- Rev A4: Moved daughter board connector to allign with other projects.
 
 ### ALPS
 - Rev A1: Initial prototype based on SMK-version.
 - Rev A2: Rotated left shift stabilizer for better universal plate support, removed PCB name and logo on top, removed flash command from silk.
-- Rev A3: Added support for Canon Spherical Keycaps, improved routing, added support for rubber-band mouting
-
-## Todo:
-- Verify switch positions
-- Make low volume protoype series
-- Implement VIA-support.
+- Rev A3: Added support for Canon Spherical Keycaps, improved routing, added support for rubber-band mouting.
+- Rev A4: Moved daughter board connector to allign with other projects.
