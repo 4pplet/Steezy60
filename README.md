@@ -5,6 +5,7 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 ## Some features:
 - Extensive layout support
 - QMK
+- Simple VIA support (just common layout options)
 - USB C
 - RGB underglow
 - Cherry PCB-stab support for most layout options
