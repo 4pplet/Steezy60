@@ -8,6 +8,7 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 - USB C
 - RGB underglow
 - Cherry PCB-stab support for most layout options
+- USB horizontal placement is classic GH60, same as GH60, plain60, voyager60 etc.
 - JST-connector for daughter board
 
 ### SMK:
