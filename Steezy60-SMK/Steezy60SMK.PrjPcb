@@ -178,7 +178,7 @@ UniqueID=F005B35C-B5D5-4FB2-9B35-CB731D120683
 Description=Bakeneko
 AllowFabrication=0
 ParameterCount=0
-VariationCount=7
+VariationCount=8
 Variation1=Designator=CON303|UniqueId=\WPMIWBDJ\YGIWSZEY|Kind=1|AlternatePart= 
 Variation2=Designator=D301|UniqueId=\WPMIWBDJ\GKLDTRHN|Kind=1|AlternatePart= 
 Variation3=Designator=D302|UniqueId=\WPMIWBDJ\UVMKVOMX|Kind=1|AlternatePart= 
@@ -186,6 +186,7 @@ Variation4=Designator=R303|UniqueId=\WPMIWBDJ\AYYECBCJ|Kind=1|AlternatePart=
 Variation5=Designator=R304|UniqueId=\WPMIWBDJ\TICOBLOU|Kind=1|AlternatePart= 
 Variation6=Designator=R307|UniqueId=\WPMIWBDJ\KUGJJGSO|Kind=1|AlternatePart= 
 Variation7=Designator=R308|UniqueId=\WPMIWBDJ\LLHJCFSW|Kind=1|AlternatePart= 
+Variation8=Designator=CON301|UniqueId=\WPMIWBDJ\EKJRKTUM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -193,13 +194,14 @@ UniqueID=491112D0-3DD1-4269-8905-530DC51AA179
 Description=Wilba
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
+VariationCount=7
 Variation1=Designator=CON307|UniqueId=\WPMIWBDJ\YXWPHEAP|Kind=1|AlternatePart= 
 Variation2=Designator=D301|UniqueId=\WPMIWBDJ\GKLDTRHN|Kind=1|AlternatePart= 
 Variation3=Designator=R303|UniqueId=\WPMIWBDJ\AYYECBCJ|Kind=1|AlternatePart= 
 Variation4=Designator=R304|UniqueId=\WPMIWBDJ\TICOBLOU|Kind=1|AlternatePart= 
 Variation5=Designator=R305|UniqueId=\WPMIWBDJ\ANQCWGVL|Kind=1|AlternatePart= 
 Variation6=Designator=R306|UniqueId=\WPMIWBDJ\ITSEUDQN|Kind=1|AlternatePart= 
+Variation7=Designator=CON301|UniqueId=\WPMIWBDJ\EKJRKTUM|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant3]
