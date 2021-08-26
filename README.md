@@ -25,6 +25,31 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 ## Layout support:
 ![alt text](./readme-images/layout_support_A3.jpg "Layout support")
 
+## Instructions for manufacturing.
+
+The Project can be assembled in three different configurations:
+1. Traditional tray mount with USB-C connector
+2. Daughter board connector in two different configurations:
+	- Bakeneko position
+	- Position for cases made for wilba PCB's (not tested yet!)
+In most versions, a "all" configuration is also included, this is not a "one config fits all", it's intended to be used for making your own config.
+
+## For ordering:
+The following files are needed for the PCB Fab:
+- BOM (contains component specifications)
+- Pick and Place (contains component placement data)
+- Gerber (contains PCB drawings and drill files)
+- (optional) Assembly drawing, for manual assembly
+
+Select the files for the desired configuration. Gerber and Pick and Place files will be the same for all three configurations, BUT!, you need to select the correct BOM for your configuration.
+
+If you want to make a bakeneko compatible PCB, select the bakeneko BOM when ordering PCB's etc.
+
+## For clarity
+- Revision: When updating the PCB I bump the revision. The revision is specified with a letter and a number. For big changes, the letter is changed (usually also include code changes), for minor changes, only the number is bumped.
+- Version: Version specifies different switch types, PCB's specific to certain cases etc.
+- Configuration: Different assembly options for a specific version of steezy60 
+
 ## Revisions:
 
 ### SMK 
