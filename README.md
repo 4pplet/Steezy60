@@ -66,3 +66,5 @@ If you want to make a bakeneko compatible PCB, select the bakeneko BOM when orde
 - Rev A3: Added support for Canon Spherical Keycaps, improved routing, added support for rubber-band mouting.
 - Rev A4: Moved daughter board connector to allign with other projects.
 - Rev A5: Moved daughter board a bit to fit better in bakeneko cases, Added cutout for bakeneko V3 (untested), Added assembly option for PCB to fit in wilba cases (untested).
+
+<a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
