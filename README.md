@@ -3,7 +3,7 @@
 Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-compatible switches. Compatible with standard tray-mount cases.
 
 ## Some features:
-- Extensive layout support
+- Extensive layout support for use with vintage keycap sets
 - QMK
 - Simple VIA support (just common layout options)
 - USB C
