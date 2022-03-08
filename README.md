@@ -16,6 +16,9 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 - Support for MX-mount switch on 6.25u and 7u spacebar position, this to enable use of silenced MX-switch on large spacebars. (no onion chopping spacebar sound)
 - Support for some of the weird Alps switch positions for compatibility with SMK Alps mount switches and classic Alps keysets (not for cherry stem SMK switches).
 
+## Availability:
+As an option to DIY, I'll try and keep these available for purchase here: https://4pplet.com/ For DIY, the production files are avaliable in releases.
+
 ## Altium view of ALPS PCB
 ![alt text](./readme-images/Steezy60-Alps_Rev_A5.jpg "PCB View - Rev A")
 
