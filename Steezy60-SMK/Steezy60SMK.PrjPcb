@@ -92,6 +92,23 @@ GenerateClassCluster=0
 DocumentUniqueId=EAXLVMHR
 
 [Document4]
+DocumentPath=3_mcu.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GOAJVTSY
+
+[Document5]
 DocumentPath=1_top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBXHBRXV
 
-[Document5]
+[Document6]
 DocumentPath=Steezy60SMK.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQQMBOXI
 
-[Document6]
+[Document7]
 DocumentPath=2_matrix.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,23 +158,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDTDDDYM
-
-[Document7]
-DocumentPath=3_mcu.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UMAPLPXN
 
 [Document8]
 DocumentPath=Job1.OutJob
@@ -229,12 +229,12 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectTitle
-Value=Steezy60 - SMK
-
-[Parameter2]
 Name=Revision
 Value=A4
+
+[Parameter2]
+Name=ProjectTitle
+Value=Steezy60 - SMK
 
 [Configuration1]
 Name=Sources
