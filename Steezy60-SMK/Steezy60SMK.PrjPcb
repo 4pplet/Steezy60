@@ -229,12 +229,12 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=Revision
-Value=A4
-
-[Parameter2]
 Name=ProjectTitle
 Value=Steezy60 - SMK
+
+[Parameter2]
+Name=Revision
+Value=A4
 
 [Configuration1]
 Name=Sources
