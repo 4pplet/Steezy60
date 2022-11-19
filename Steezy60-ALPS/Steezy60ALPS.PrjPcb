@@ -233,12 +233,12 @@ DocumentPath=Project Outputs for alps-cherry\Design Rule Check - Steezy60ALPS.ht
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=Steezy60 - ALPS
+Name=Revision
+Value=B1
 
 [Parameter2]
-Name=Revision
-Value=A4
+Name=ProjectTitle
+Value=Steezy60 - ALPS
 
 [Configuration1]
 Name=Sources

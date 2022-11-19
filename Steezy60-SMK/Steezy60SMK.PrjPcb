@@ -233,12 +233,12 @@ DocumentPath=Project Outputs for alps-cherry\Design Rule Check - Steezy60SMK.htm
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ProjectTitle
-Value=Steezy60 - SMK
+Name=Revision
+Value=B1
 
 [Parameter2]
-Name=Revision
-Value=A4
+Name=ProjectTitle
+Value=Steezy60 - SMK
 
 [Configuration1]
 Name=Sources
