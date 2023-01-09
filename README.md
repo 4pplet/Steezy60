@@ -20,10 +20,10 @@ Steezy60 is a 60% PCB in two versions: one for SMK gen 2 switches one for ALPS-c
 As an option to DIY, I'll try and keep these available for purchase here: https://4pplet.com/ For DIY, the production files are avaliable in releases.
 
 ## Altium view of ALPS PCB
-![alt text](./readme-images/Steezy60-Alps_Rev_A5.jpg "PCB View - Rev A")
+![alt text](./readme-images/Steezy60-Alps_Rev_B1.jpg "PCB View - Rev B")
 
 ## Altium view of SMK PCB
-![alt text](./readme-images/Steezy60-SMK_Rev_A5.jpg "PCB View - Rev A")
+![alt text](./readme-images/Steezy60-SMK_Rev_B1.jpg "PCB View - Rev B")
 
 ## Layout support:
 ![alt text](./readme-images/layout_support_A3.jpg "Layout support")
@@ -32,9 +32,7 @@ As an option to DIY, I'll try and keep these available for purchase here: https:
 
 The Project can be assembled in three different configurations:
 1. Traditional tray mount with USB-C connector
-2. Daughter board connector in two different configurations:
-	- Bakeneko position
-	- Position for cases made for wilba PCB's 
+2. Daughter board connector
 In most versions, a "all" configuration is also included, this is not a "one config fits all", it's intended to be used for making your own config.
 
 ## For ordering:
@@ -62,6 +60,7 @@ If you want to make a bakeneko compatible PCB, select the bakeneko BOM when orde
 - Rev A3: Added support for Canon Spherical Keycaps, improved routing, added support for rubber-band mouting.
 - Rev A4: Moved daughter board connector to allign with other projects.
 - Rev A5: Moved daughter board a bit to fit better in bakeneko cases, Added cutout for bakeneko V3 (untested), Added assembly option for PCB to fit in wilba cases (untested).
+- Rev B1: Changing CPU to ARM, removing wilba PCB-support
 
 ### ALPS
 - Rev A1: Initial prototype based on SMK-version.
@@ -69,5 +68,6 @@ If you want to make a bakeneko compatible PCB, select the bakeneko BOM when orde
 - Rev A3: Added support for Canon Spherical Keycaps, improved routing, added support for rubber-band mouting.
 - Rev A4: Moved daughter board connector to allign with other projects.
 - Rev A5: Moved daughter board a bit to fit better in bakeneko cases, Added cutout for bakeneko V3 (untested), Added assembly option for PCB to fit in wilba cases (untested).
+- Rev B1: Changing CPU to ARM, removing wilba PCB-support
 
 <a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
